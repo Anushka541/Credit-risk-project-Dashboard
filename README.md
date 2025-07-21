@@ -39,8 +39,8 @@ This interactive dashboard was built using **Retool** and **MySQL** to explore a
 
 ## 📄 SQL Queries
 
-> See: SQL Queries - Credit Risk Dashboard.docx
-
+> See: [SQL Queries - Credit Risk Dashboard.docx
+](https://github.com/Anushka541/Credit-risk-project-Dashboard/blob/main/SQL%20Queries%20-%20Credit%20Risk%20Dashboard.docx)
 ---
 
 ## 📂 Dataset Source
