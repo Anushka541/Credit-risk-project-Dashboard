@@ -33,7 +33,7 @@ This interactive dashboard was built using **Retool** and **MySQL** to explore a
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard Preview](credit-risk-dashboard.png)
+!screencapture-anushka54-retool-apps-6f4cc470-58e7-11f0-a21a-739f6b805b17-Credit-risk-project-page1-2025-07-21-13_10_55.png
 
 ---
 
