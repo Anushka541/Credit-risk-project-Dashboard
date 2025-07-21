@@ -1,4 +1,4 @@
-#💳 Credit-risk-project-Dashboard
+# 💳 Credit Risk Dashboard (Retool + SQL)
 
 This interactive dashboard was built using **Retool** and **MySQL** to explore and visualize credit risk patterns using a publicly available dataset.
 
@@ -39,7 +39,8 @@ This interactive dashboard was built using **Retool** and **MySQL** to explore a
 
 ## 📄 SQL Queries
 
-SQL Queries - Credit Risk Dashboard.docx
+> See: [SQL Queries - Credit Risk Dashboard.docx](SQL%20Queries%20-%20Credit%20Risk%20Dashboard.docx)
+
 ---
 
 ## 📂 Dataset Source
